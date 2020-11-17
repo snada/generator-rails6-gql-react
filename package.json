@@ -1,0 +1,20 @@
+{
+  "name": "generator-rails6-gql-react",
+  "version": "1.0.0",
+  "description": "Yeoman Rails 6, GQL and React generator",
+  "main": "generators/index.js",
+  "repository": "https://github.com/snada/generator-rails6-gql-react",
+  "author": "snada",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "case": "^1.6.3",
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^4.12.0"
+  }
+}
